@@ -18,6 +18,8 @@ A fictitious Dublin SaaS company holds customer payment data and some US healthc
 - **Evaluation:** deviations were confined to two manual sub-populations and complete logs showed no access after exit, so the SOC 2® opinion was not modified — but the finding was still rated **High** because the root causes were systemic.
 - **Outcome:** a 5-C finding, management action plan, ISO minor nonconformity, HIPAA breach assessment, a retest plan and an updated policy (v3.2).
 
+**Companion tool (live):** [GRC Audit](https://cybersecinfo.com/grcaudit/) applies the same framework mapping to any incident you describe (NIST CSF 2.0, ISO/IEC 27001:2022, SOC 2®, GDPR, CCPA/CPRA and HIPAA), with every cited control ID checked against embedded official catalogs. [Source code](https://github.com/ahuttener/GRC-Audit).
+
 ## What this repository demonstrates
 
 | GRC analyst responsibility | Where it is demonstrated |
